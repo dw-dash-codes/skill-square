@@ -6,7 +6,7 @@ Whether you need a reliable technician or want to register as a professional to 
 
 ## 🚀 Live Demo & Testing
 
-**Live Link:** [SkillSquare on Vercel](https://skill-square-frontend.vercel.app)
+**Live Link:** [SkillSquare on Vercel](https://skill-square.vercel.app)
 
 Want to explore the platform without creating an account? Feel free to use the provided test credentials below:
 

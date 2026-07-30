@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 // Layouts
@@ -126,6 +127,7 @@ const App = () => {
         {/* Agar koi aesa link ho jo exist nahi karta, to yahan bhejo */}
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <Analytics/>
     </BrowserRouter>
   );
 };

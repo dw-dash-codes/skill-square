@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL : "https://skillsquare-live-api-b9czenhchfhxdwbp.centralindia-01.azurewebsites.net/api",
+    baseURL : "https://skill-square-api-egdtcsapcnegb6cs.austriaeast-01.azurewebsites.net/api",
     withCredentials : true,
 });
 

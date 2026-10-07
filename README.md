@@ -14,7 +14,7 @@ Want to explore the platform without creating an account? Feel free to use the p
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Customer / User** | `test@gmail.com` | `Test@123` |
-| **Service Provider** | `provider22@gmail.com` | `Provider@123` |
+| **Service Provider** | `provider33@gmail.com` | `Provider@123` |
 
 ---
 

@@ -1,10 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/api/:path*",
-      "destination": "http://skill-square-api.runasp.net/api/:path*"
-    },
-    {
       "source": "/(.*)",
       "destination": "/index.html"
     }

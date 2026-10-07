@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL : "http://skill-square-api.runasp.net/api",
+    baseURL : "https://skill-square-api.runasp.net/api",
     withCredentials : true,
 });
 
